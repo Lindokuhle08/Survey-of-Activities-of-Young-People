@@ -75,10 +75,3 @@ School attendance was consistently high across all methods (around 98–99%), in
 However, the total number of children in labour varied, with stratified and cluster sampling giving higher totals compared to simple random sampling.
 
 Overall, stratified sampling provided the most balanced and reliable estimates, making it the best method for representing the population accurately.
-
-
-**Group Members:**
-- Lindokuhle Machangu
-- Sthembelo Meyiwa
-- Luyanda Myeza
-- Phakamani Majola
