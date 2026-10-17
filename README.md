@@ -1,13 +1,6 @@
 
 # Estimation of Adolescent Household Hours, School Attendance, and Child Labour in South Africa Using Probability Sampling Methods.
 
-**Group Members:**
-
-- Sthembelo Meyiwa
-- Luyanda Myeza
-- Phakamani Majola
-- Lindokuhle Machangu
-
 This report uses data from the **Survey of Activities of Young People (SAYP)** to explore how adolescents in South Africa spend their time. The aim is to estimate the **average hours** spent on household responsibilities, the **percentage enrolled in school**, and the **total number involved in child labour**. To achieve this, four probability sampling methods — Simple Random Sampling with and without replacement, Stratified Sampling (by gender), and Cluster Sampling (by province), were applied to produce representative estimates of the population.
 
 ## Objectives
